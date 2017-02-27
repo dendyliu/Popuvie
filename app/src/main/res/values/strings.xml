@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popuvie</string>
+    <string name="category_detail">Detail Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Top Rated</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_collection">My Collection</string>
+    <string name="content_authority">com.example.android.popuvie.app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
